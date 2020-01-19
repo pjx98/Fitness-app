@@ -73,7 +73,6 @@ def my_callback(screen, dt):
     t -= 1
     if t == -1:
         t += 1
-        vibrator.vibrate(10)
     screen.ids.timer.text = str(t)
 
 
