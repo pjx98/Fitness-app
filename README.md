@@ -6,4 +6,4 @@ This is a simple app created using KIVY which is a python framework to develop c
 
 Features:
 - Tracking your workout progress
-- Countdown rest timer which will vibrate to remind you of your next set
+- Countdown rest timer which will vibrate to alert you of your next set
