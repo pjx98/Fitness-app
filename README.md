@@ -1,4 +1,4 @@
-# Gym-app
+# Fitness-app
 
 Hi all, 
 
